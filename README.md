@@ -3,6 +3,7 @@
 * PhysBones1.1で追加されたSquishy Bonesを使用した押しボタンです 
 
 ## 導入方法
+* liltoonを導入します(https://booth.pm/ja/items/3087170)
 * Modular Avatarを使用するとスムーズです(https://modular-avatar.nadena.dev/ja/)
 
 ## OSC
