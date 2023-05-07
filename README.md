@@ -8,5 +8,5 @@
 ## OSC
 * PhysBonesにはparameterとして`PushButton`が設定されています
 
-## 利用規約
+## ここ重要
 * 作者(HaoriHakama678)は配布物に関していかなる責任も負わないものとします
